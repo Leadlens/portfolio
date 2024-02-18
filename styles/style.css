@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #333;
+}
+p {
+    margin-bottom: 10px;
+}
+.contact-info {
+    margin-bottom: 20px;
+}
+.profile-image {
+    float: left;
+    margin-right: 20px;
+    max-width: 200px;
+}
